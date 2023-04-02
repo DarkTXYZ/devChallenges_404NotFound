@@ -36,14 +36,7 @@
 
 ## Overview
 
-![screenshot](https://flic.kr/p/2oqGkMu)
-
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+![screenshot](https://github.com/DarkTXYZ/devChallenges_404NotFound/blob/master/page.png)
 
 ### Built With
 
